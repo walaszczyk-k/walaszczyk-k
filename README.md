@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @walaszczyk-k
+- 👋 @walaszczyk-k
 - Test Automation Engeener based in Warsaw, Poland
